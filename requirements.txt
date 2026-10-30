@@ -1,7 +1,6 @@
-pandas
-scikit-learn
-pytest
 fastapi
 uvicorn
-requestshttpx
+pytest
 httpx
+pandas
+scikit-learn
